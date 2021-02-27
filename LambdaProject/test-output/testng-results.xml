@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-27T01:47:44 WAT" name="Default suite" finished-at="2021-02-27T01:47:53 WAT" duration-ms="9116">
+    <groups>
+    </groups>
+    <test started-at="2021-02-27T01:47:44 WAT" name="Default test" finished-at="2021-02-27T01:47:53 WAT" duration-ms="9116">
+      <class name="LambdaTest.HomePageLoginClass">
+        <test-method is-config="true" signature="settings()[pri:0, instance:LambdaTest.HomePageLoginClass@1943c1f2]" started-at="2021-02-27T01:47:31 WAT" name="settings" finished-at="2021-02-27T01:47:44 WAT" duration-ms="12857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settings -->
+        <test-method signature="populateEmailTest()[pri:1, instance:LambdaTest.HomePageLoginClass@1943c1f2]" started-at="2021-02-27T01:47:44 WAT" name="populateEmailTest" finished-at="2021-02-27T01:47:47 WAT" duration-ms="2887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- populateEmailTest -->
+        <test-method signature="radioButtonTest()[pri:2, instance:LambdaTest.HomePageLoginClass@1943c1f2]" started-at="2021-02-27T01:47:47 WAT" name="radioButtonTest" finished-at="2021-02-27T01:47:49 WAT" duration-ms="2165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radioButtonTest -->
+        <test-method signature="checkBoxTest()[pri:3, instance:LambdaTest.HomePageLoginClass@1943c1f2]" started-at="2021-02-27T01:47:49 WAT" name="checkBoxTest" finished-at="2021-02-27T01:47:50 WAT" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxTest -->
+        <test-method signature="dropdownTest()[pri:4, instance:LambdaTest.HomePageLoginClass@1943c1f2]" started-at="2021-02-27T01:47:50 WAT" name="dropdownTest" finished-at="2021-02-27T01:47:50 WAT" duration-ms="308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdownTest -->
+        <test-method signature="feedbackTest()[pri:5, instance:LambdaTest.HomePageLoginClass@1943c1f2]" started-at="2021-02-27T01:47:50 WAT" name="feedbackTest" finished-at="2021-02-27T01:47:50 WAT" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feedbackTest -->
+        <test-method signature="ratingScaleTest()[pri:6, instance:LambdaTest.HomePageLoginClass@1943c1f2]" started-at="2021-02-27T01:47:50 WAT" name="ratingScaleTest" finished-at="2021-02-27T01:47:50 WAT" duration-ms="462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ratingScaleTest -->
+        <test-method signature="launchnewTabTest()[pri:7, instance:LambdaTest.HomePageLoginClass@1943c1f2]" started-at="2021-02-27T01:47:50 WAT" name="launchnewTabTest" finished-at="2021-02-27T01:47:53 WAT" duration-ms="2298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchnewTabTest -->
+        <test-method signature="uploadlogoTest()[pri:8, instance:LambdaTest.HomePageLoginClass@1943c1f2]" started-at="2021-02-27T01:47:53 WAT" name="uploadlogoTest" finished-at="2021-02-27T01:47:53 WAT" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uploadlogoTest -->
+        <test-method signature="submitPageTest()[pri:9, instance:LambdaTest.HomePageLoginClass@1943c1f2]" started-at="2021-02-27T01:47:53 WAT" name="submitPageTest" finished-at="2021-02-27T01:47:53 WAT" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitPageTest -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:LambdaTest.HomePageLoginClass@1943c1f2]" started-at="2021-02-27T01:47:53 WAT" name="quitBrowser" finished-at="2021-02-27T01:47:54 WAT" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- LambdaTest.HomePageLoginClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
